@@ -1,0 +1,110 @@
+  <!-- <path stroke="blue" stroke-width="3" d="M 100 80 V491"/>  -->
+          <path stroke="green" stroke-width="3" d="M 100 83 H105"/> <!--3AD-->
+          <path stroke="green" stroke-width="3" d="M 100 130 H105"/> <!--3D-->
+          <path stroke="green" stroke-width="3" d="M 100 173 H105"/> <!--3CD-->
+          <path stroke="green" stroke-width="3" d="M 100 203 H105"/> <!--2AD-->
+          <path stroke="green" stroke-width="3" d="M 100 240 H105"/> <!--2D-->
+          <path stroke="green" stroke-width="3" d="M 100 283 H105"/> <!--2CD-->
+          <path stroke="green" stroke-width="3" d="M 100 303 H105"/> <!--LM-->
+          <path stroke="green" stroke-width="3" d="M 100 323 H105"/> <!--1AD-->
+          <path stroke="green" stroke-width="3" d="M 100 360 H105"/> <!--1D-->
+          <path stroke="green" stroke-width="3" d="M 100 403 H105"/> <!--1CD-->
+
+        <!-- <path stroke="purple" stroke-width="3" d="M 160 80 V490"/> -->
+          <path stroke="green" stroke-width="3" d="M 160 90 H165"/> <!--3A-->
+          <path stroke="green" stroke-width="3" d="M 160 173 H165"/> <!--3C-->
+          <path stroke="green" stroke-width="3" d="M 160 203 H165"/> <!--2A-->
+          <path stroke="green" stroke-width="3" d="M 160 283 H165"/> <!--2C-->
+          <path stroke="green" stroke-width="3" d="M 160 323 H165"/> <!--1A-->
+          <path stroke="green" stroke-width="3" d="M 160 403 H165"/> <!--1C-->
+          <path stroke="green" stroke-width="3" d="M 160 453 H165"/> <!--E2_1-->
+          <path stroke="green" stroke-width="3" d="M 160 487 H165"/> <!--E2_0-->
+
+        <!-- <path stroke="blue" stroke-width="3" d="M 210 80 V490"/> -->
+          <path stroke="green" stroke-width="3" d="M 210 83 H215"/> <!--3AB-->
+          <path stroke="green" stroke-width="3" d="M 210 130 H215"/> <!--3B-->
+          <path stroke="green" stroke-width="3" d="M 210 173 H215"/> <!--3BC-->
+          <path stroke="green" stroke-width="3" d="M 210 203 H215"/> <!--2AB-->
+          <path stroke="green" stroke-width="3" d="M 210 240 H215"/> <!--2B-->
+          <path stroke="green" stroke-width="3" d="M 210 283 H215"/> <!--2BC-->
+          <path stroke="green" stroke-width="3" d="M 210 323 H215"/> <!--1AB-->
+          <path stroke="green" stroke-width="3" d="M 210 360 H215"/> <!--1B-->
+          <path stroke="green" stroke-width="3" d="M 210 403 H215"/> <!--1BC-->
+
+        <!-- <path stroke="yellow" stroke-width="3" d="M 270 80 V490"/>  -->
+          <path stroke="green" stroke-width="3" d="M 270 83 H275"/> <!--4AD-->
+          <path stroke="green" stroke-width="3" d="M 270 130 H275"/> <!--4D-->
+          <path stroke="green" stroke-width="3" d="M 270 173 H275"/> <!--4CD-->
+          <path stroke="blue" stroke-width="10" d="M 270 203 H275"/> <!--H00-->
+          <path stroke="green" stroke-width="3" d="M 270 240 H275"/> <!--H01-->
+          <path stroke="green" stroke-width="3" d="M 270 303 H275"/> <!--H02-->
+          <path stroke="green" stroke-width="3" d="M 270 360 H275"/> <!--H03-->
+          <path stroke="green" stroke-width="3" d="M 270 403 H275"/> <!--H04-->
+          <path stroke="green" stroke-width="3" d="M 270 453 H275"/> <!--H05-->
+
+        <!-- <path stroke="yellow" stroke-width="3" d="M 330 80 V490"/>  -->
+          <path stroke="green" stroke-width="3" d="M 330 83 H335"/> <!--4A-->
+          <path stroke="green" stroke-width="3" d="M 330 173 H335"/> <!--4C-->
+          <path stroke="green" stroke-width="3" d="M 330 203 H335"/> <!--H10-->
+          <path stroke="green" stroke-width="3" d="M 330 240 H335"/> <!--H11-->
+          <path stroke="green" stroke-width="3" d="M 330 303 H335"/> <!--H12-->
+          <path stroke="green" stroke-width="3" d="M 330 360 H335"/> <!--H13-->
+          <path stroke="green" stroke-width="3" d="M 330 403 H335"/> <!--H14-->
+          <path stroke="green" stroke-width="3" d="M 330 453 H335"/> <!--H15-->
+
+        <!-- <path stroke="yellow" stroke-width="3" d="M 380 80 V490"/>  -->
+          <path stroke="green" stroke-width="3" d="M 380 83 H385"/> <!--4AB-->
+          <path stroke="green" stroke-width="3" d="M 380 130 H385"/> <!--4B-->
+          <path stroke="green" stroke-width="3" d="M 380 173 H385"/> <!--4BC-->
+          <path stroke="blue" stroke-width="3" d="M 380 203 H385"/> <!--H20-->
+          <path stroke="green" stroke-width="3" d="M 380 240 H385"/> <!--H21-->
+          <path stroke="green" stroke-width="3" d="M 380 303 H385"/> <!--H22-->
+          <path stroke="green" stroke-width="3" d="M 380 360 H385"/> <!--H23-->
+          <path stroke="green" stroke-width="3" d="M 380 403 H385"/> <!--H24-->
+          <path stroke="green" stroke-width="3" d="M 380 453 H385"/> <!--H25-->
+
+        <!-- <path stroke="blue" stroke-width="3" d="M 450 80 V490"/> -->
+          <path stroke="green" stroke-width="3" d="M 450 84 H455"/> <!--5AD-->
+          <path stroke="green" stroke-width="3" d="M 450 130 H455"/> <!--5D-->
+          <path stroke="green" stroke-width="3" d="M 450 173 H455"/> <!--5CD-->
+          <path stroke="green" stroke-width="3" d="M 450 203 H455"/> <!--H30-->
+          <path stroke="green" stroke-width="3" d="M 450 240 H455"/> <!--H31-->
+          <path stroke="green" stroke-width="3" d="M 450 303 H455"/> <!--H32-->
+          <path stroke="green" stroke-width="3" d="M 450 354 H455"/> <!--6AD-->
+          <path stroke="green" stroke-width="3" d="M 450 403 H455"/> <!--6D-->
+          <path stroke="green" stroke-width="3" d="M 450 453 H455"/> <!--6CD-->
+
+        <!-- <path stroke="purple" stroke-width="3" d="M 510 80 V490"/> -->
+          <path stroke="green" stroke-width="3" d="M 510 90 H515"/> <!--5A-->
+          <path stroke="green" stroke-width="3" d="M 510 173 H515"/> <!--5C-->
+          <path stroke="green" stroke-width="3" d="M 510 240 H515"/> <!--H41-->
+          <path stroke="green" stroke-width="3" d="M 510 353 H515"/> <!--6A-->
+          <path stroke="green" stroke-width="3" d="M 510 453 H515"/> <!--6C-->
+
+        <!-- <path stroke="blue" stroke-width="3" d="M 570 80 V490"/>  -->
+          <path stroke="green" stroke-width="3" d="M 570 90 H575"/> <!--5AB-->
+          <path stroke="green" stroke-width="3" d="M 570 130 H575"/> <!--5B-->
+          <path stroke="green" stroke-width="3" d="M 570 173 H575"/> <!--5BC-->
+          <path stroke="green" stroke-width="3" d="M 570 240 H575"/> <!--FIT-->
+          <path stroke="green" stroke-width="3" d="M 570 353 H575"/> <!--6AB-->
+          <path stroke="green" stroke-width="3" d="M 570 403 H575"/> <!--6B-->
+          <path stroke="green" stroke-width="3" d="M 570 453 H575"/> <!--6BC-->
+        
+        <!-- <path stroke="red" stroke-width="3" d="M 100 80 H570"/>
+        <path stroke="red" stroke-width="3" d="M 100 170 H570"/>
+        <path stroke="red" stroke-width="3" d="M 100 200 H570"/> 
+        <path stroke="red" stroke-width="3" d="M 210 250 H570"/>
+        <path stroke="red" stroke-width="3" d="M 100 280 H210"/>
+        <path stroke="yellow" stroke-width="3" d="M 100 300 H570"/>
+        <path stroke="red" stroke-width="3" d="M 100 320 H210"/>
+        <path stroke="red" stroke-width="3" d="M 210 350 H570"/>
+        <path stroke="red" stroke-width="3" d="M 100 400 H450"/>
+        <path stroke="yellow" stroke-width="3" d="M 100 450 H570"/>
+        <path stroke="red" stroke-width="3" d="M 100 490 H570"/> -->
+
+        <!-- 6's Corners: 6-AD 450, 350 | 6-AB 570, 350 | 6-CD 450, 450 | 6-BC 570, 450 -->
+        <!-- 5's Corners: 5-AD 450, 80 | 5-AB 570, 80 | 5-CD 450, 170 | 5-BC 570, 170 -->
+        <!-- 4's Corners: 4-AD 270, 80 | 4-AB 380, 80 | 4-CD 270, 170 | 4-BC 380, 170 -->
+        <!-- 3's Corners: 3-AD 100, 80 | 3-AB 210, 80 | 3-CD 100, 170 | 3-BC 210, 170 -->
+        <!-- 2's Corners: 2-AD 100, 200 | 2-AB 210, 200 | 2-CD 100, 280 | 2-BC 210, 280 -->
+        <!-- 1's Corners: 1-AD 100, 320 | 1-AB 210, 320 | 1-CD 100, 400 | 1-BC 210, 400 -->

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>JS Sandbox</title>
+</head>
+<body>
+    <div class="landing">
+        <form id="form" style="background-color:aqua">
+            <label>label</label><br>
+            <input type="text" name="input" id="textInput">
+            <input type="submit">
+        </form>
+        
+        <h1>JS Sandbox pt. 2</h1>
+    </div>
+    <p>s</p>
+    <ul class="collection">
+        <li class="collection-item"><a>something 1</a></li>
+        <li class="collection-item">something 2</li>
+        <li class="collection-item">something 3</li>
+        <li class="collection-item">something 4</li>
+        <li class="collection-item">something 5</li>
+        <li class="collection-item">something 6</li>
+        <li class="collection-item">something 7</li>
+    </ul>
+
+    <button>big button</button>
+    <h1 id="coord">something</h1>
+    <div id="game"></div>
+    <div class="paperTry">
+      <img src="./MicrosoftTeams-image.png" id="paperImg" style="padding: 100px;"/>
+    </div>
+
+    <div class="dropDown">
+      <select id="table">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+      </select>
+      <select id="section">
+        <option value="1">A</option>
+        <option value="2">AB</option>
+        <option value="3">B</option>
+        <option value="4">BC</option>
+        <option value="5">C</option>
+        <option value="6">CD</option>
+        <option value="6">D</option>
+        <option value="6">AD</option>
+        <option value="H51">H51</option>
+      </select>
+      <input type="submit" id="pathSelection" value="Submit">
+    </div>
+    <div class="multiItem">
+      <button type="button" id="multiItemButton">click me to find path</button>
+    </div>
+
+    <div class="img-overlay-wrap">
+      <div id="a">💃</div>
+      <img src="./MicrosoftTeams-image.png"/>
+      <svg id="shortestPathContainer" viewbox="0 0 709 576" style="border: blue solid;">
+        <path id="shortestPath" stroke="red" fill="none" stroke-width="5" d=""/>
+      </svg>
+    </div>
+    <div class="pathVisual">
+      <svg id="demo-svg" width="800" height="600"> 
+        <path stroke="red" fill="none" d="M 50 50 Q 50 200 50 400 Q 250 550 250 550 Q 350 50 350 50 C 450 50 450 50 500 50 Q 575 50 650 50 L 650 350 Z"></path>
+      </svg>
+    </div>
+      <script src="./node_modules/animejs/lib/anime.min.js"></script>
+    <script src="app.js" type="module"></script>
+    <div id="testPermutations"></div>
+</body>
+</html>
