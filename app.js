@@ -26,6 +26,8 @@ import {addEdgesToGraph, addVerticesToGraph, addMustVisitToGraph} from './data.j
 
 let val;
 
+console.alert(1);
+
 const list = document.querySelector('ul.collection');
 const listItem = document.querySelector('li.collection-item:first-child')
 
